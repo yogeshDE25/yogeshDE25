@@ -2,43 +2,23 @@
 
 ## Electronics & Instrumentation Engineer
 
-I am passionate about
+## Technical Skills
 
-- VLSI Design
-- Digital Electronics
-- Embedded Systems
-- Instrumentation
-- Semiconductor Industry
-
-Currently learning:
-
+- Verilog HDL
 - SystemVerilog
-- UVM
-- FPGA Design
-- ASIC Verification
-
----
-
-## 🛠 Skills
-
-### Programming
-- C
-- Verilog
-- SystemVerilog
-
-### Hardware
-- FPGA
-- Embedded Systems
-- Microcontrollers
-
-### Software
-- Vivado
-- ModelSim
+- Digital Design
+- RTL Design
+- Functional Verification
 - LabVIEW
-- Sentracus TCAD
 - MATLAB
+- Vivado
 
----
+## Current Learning
+
+- Advanced SystemVerilog
+- RTL Design
+- FPGA Design
+- UVM (Upcoming)
 
 ## Featured Projects
 
@@ -55,6 +35,10 @@ Designed both Moore and Mealy finite state machines to detect the overlapping bi
 Simulated Organic Electrochemical Transistor characteristics and analyzed I-V behaviour under varying bias 
 conditions.
 
+- UART (In Progress)
+- Synchronous FIFO (Planned)
+
+Always learning and building new RTL projects.
 
 ---
 
