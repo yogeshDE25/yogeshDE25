@@ -60,7 +60,7 @@ conditions.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshDE25&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshDE25&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -72,7 +72,7 @@ conditions.
 
 ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yogeshDE25&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=yogeshDE25&theme=tokyonight)
 
 ---
 
