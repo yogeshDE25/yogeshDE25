@@ -5,18 +5,18 @@
 ## Technical Skills
 
 - Verilog HDL
+- Vivado
 - SystemVerilog
 - Digital Design
 - RTL Design
 - Functional Verification
 - LabVIEW
 - MATLAB
-- Vivado
+
 
 ## Current Learning
 
 - Advanced SystemVerilog
-- RTL Design
 - FPGA Design
 - UVM (Upcoming)
 
@@ -25,11 +25,11 @@
 ### 8-bit Arithmetic Logic Unit | Verilog HDL
 Designed an 8-bit combinational ALU supporting eight arithmetic and logical operations. 
 
-### Traffic Light Controller using FSM
-Designed a Moore finite state machine for traffic signal control. 
-
 ### FSM-Based Sequence Detector (Moore & Mealy) | Verilog HDL
 Designed both Moore and Mealy finite state machines to detect the overlapping binary sequence 1011. 
+
+### Traffic Light Controller using FSM
+Designed a Moore finite state machine for traffic signal control. 
 
 ### Semiconductor Device Simulation – Sentaurus TCAD
 Simulated Organic Electrochemical Transistor characteristics and analyzed I-V behaviour under varying bias 
