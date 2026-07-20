@@ -46,11 +46,9 @@ Always learning and building new RTL projects.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshDE25&show_icons=true&theme=tokyonight)
 
----
-
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshDE25&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshDE25&layout=compact&theme=tokyonight)
 
 ---
 
