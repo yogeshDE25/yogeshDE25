@@ -16,6 +16,7 @@
 
 ## Current Learning
 
+- TCL
 - Advanced SystemVerilog
 - FPGA Design
 - UVM (Upcoming)
